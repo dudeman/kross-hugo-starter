@@ -16,8 +16,6 @@ sections:
   label: Post
   create: documents
   match: "*"
-  templates:
-  - post
 - type: directory
   path: content/about
   label: About
