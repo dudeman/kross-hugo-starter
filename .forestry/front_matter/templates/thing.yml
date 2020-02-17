@@ -1,4 +1,9 @@
 ---
 label: Thing
 hide_body: true
-fields: []
+fields:
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
+  description: Upload images for gallery
